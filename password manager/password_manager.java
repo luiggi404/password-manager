@@ -21,7 +21,7 @@ import java.util.Base64;
 
 
 
-public class okfaccioio {
+public class password_manager {
 
     public static void LoginGUI(){
 
@@ -141,8 +141,8 @@ public class okfaccioio {
     }
 
     public static void main(String[] args) {
-        okfaccioio io = new okfaccioio();
-        okfaccioio.LoginGUI();
+        password_manager pw = new password_manager();
+        pw.LoginGUI();
     }
 
 }
